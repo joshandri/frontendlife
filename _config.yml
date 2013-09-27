@@ -2,7 +2,7 @@ title:            Front-end development
 description:      Techniques and Tutorials
 disqus_shortname: required
 #Comment out url when working locally to resolve base urls correctly
-url:              "http://localhost:4000"
+url:              "http://joshandri.github.io/monpremierblog"
 
 # Owner/author information
 owner:
