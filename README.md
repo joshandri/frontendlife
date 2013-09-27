@@ -1,0 +1,1 @@
+A blog about front-end development  resources and techniques 
