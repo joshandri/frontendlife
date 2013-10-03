@@ -3,7 +3,7 @@ layout: post
 title:  "How to install jekyll on windows"
 date:   2013-09-01 17:21:07
 category: articles
-tags: [jekyll]
+tags: [tutorials]
 comments: true
 ---
 
