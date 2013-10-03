@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to choose the appropriate code playground to our  project or our code ?
+title: How to choose the appropriate code playground to your project or your code ?
 description: "List of online code editor and compiler "
 date: 2013-09-30
 category: articles
@@ -12,7 +12,7 @@ A variety of online code editor have appeared during the past couple of years. I
 # Code playground
 
 A code playground is an online tool to test, to stock and to share source code especially for coding in  HTML, CSS and/or Javascript.  
-The public code are usually view in a gallery , it offers a quick way to experiment with client-side code and share it with others.  
+The list of public codes are usually view in a gallery , it offers a quick way to experiment with client-side code and share it with others.  
 Typical features include :  
   
 * Rich HTML, CSS and JavaScript code editor and nice syntax highlighting.  
